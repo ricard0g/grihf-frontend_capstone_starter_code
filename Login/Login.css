@@ -51,12 +51,14 @@
 
 /* Styles for primary buttons */
 .btn-primary {
-    background-color: #007bff; /* Background color for primary buttons */
+    background-color: #FF8E3C; /* Background color for primary buttons */
     color: #fff; /* Text color for primary buttons */
+    border-radius: 50px;
 }
 
 /* Styles for danger (red) buttons */
 .btn-danger {
-    background-color: #dc3545; /* Background color for danger buttons */
+    background-color: #D9376E; /* Background color for danger buttons */
     color: #fff; /* Text color for danger buttons */
+    border-radius: 50px;
 }
